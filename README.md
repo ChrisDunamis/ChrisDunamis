@@ -1,6 +1,7 @@
+<link rel="stylesheet" href="style.css">
+
 # Hello, I am Chris Dunamis <span class="wavingHandEmoji">👋🏾</span>
 
-<link rel="stylesheet" href="style.css">
 
 <!-- <div align="center"> -->
 
